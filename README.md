@@ -21,11 +21,10 @@ I'm a final-year **Computer Science & Engineering** student at **Jawaharlal Nehr
 <p>
   <a href="mailto:shaunakshivnikar@gmail.com"><img src="https://img.shields.io/badge/Email-shaunakshivnikar%40gmail.com-00D4FF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Shaunak at shaunakshivnikar@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/shaunak-shivnikar-54aa54283"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Shaunak Shivnikar on LinkedIn"/></a>
-  <a href="https://github.com/shaunakshivnikar"><img src="https://img.shields.io/badge/GitHub-Shaunak--Shiv007-6A11CB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="shaunakshivnikar on GitHub"/></a>
+  <a href="https://github.com/shaunakshivnikar"><img src="https://img.shields.io/badge/GitHub-SHAUNAKSHIVNIKAR-6A11CB?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="shaunakshivnikar on GitHub"/></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Phone-%2B91_9322564438-0D1117?style=flat-square&amp;labelColor=161B22&amp;color=00D4FF" alt="Phone: +91 9322564438"/>
   <img src="https://img.shields.io/badge/Location-Pune%2C_India-0D1117?style=flat-square&amp;labelColor=161B22&amp;color=A855F7" alt="Location: Pune, India"/>
 </p>
 
